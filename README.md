@@ -1,8 +1,8 @@
 # multi-tenant-ecom-saas
 
-<!--
-Frontend: Vue.js (or Nuxt.js, which is a plus) with TypeScript, and modern CSS (e.g., TailwindCSS).
 
+Frontend: Vue.js (or Nuxt.js, which is a plus) with TypeScript, and modern CSS (e.g., TailwindCSS).
+<!--
 Backend: Node.js with Express or a similar framework, utilizing a Microservices architecture approach.
 
 Database: MongoDB (specifically mention indexing and query optimization).
